@@ -162,8 +162,8 @@ gsp1.apple.com
 www.apple.com 
 www.appleiphonecell.com
 
-
-#Other Domains
+#Samsung TV
+time.samsungcloudsolution.com
 
 #Spotify
 #for iOS
